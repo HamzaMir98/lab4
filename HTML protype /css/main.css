@@ -1,0 +1,121 @@
+.img-responsive, .thumbnail>img, .thumbnail a>img, .carousel-inner>.item>img, .carousel-inner>.item>a>img {
+  height: 600px!important;
+}
+.upper-text {
+  text-transform: uppercase;
+}
+
+.dep-title {
+  color: #ffffff;
+  font-size: 20px;
+  position: relative;
+  top: 11px;
+}
+
+.site-header{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 30%;
+  margin-bottom: 20px;
+}
+
+.site-header .logo{
+  text-decoration: none;
+  color: #000000;
+}
+
+.site-header .logo:hover {
+  text-decoration: none;
+  color: #000000;
+}
+
+.site-header p {
+  position: relative;
+  left: 80px;
+  top: 10px;
+}
+
+.site-header img{
+  width: 22%;
+}
+
+.site-header span{
+  font-size: 83px;
+  position: relative;
+  top: 25px;
+}
+
+.social-icons {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 25%;
+  margin-top: 80px;
+}
+
+.myUMBC-Groups {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 20%;
+  margin-top: 80px;
+}
+
+.myUMBC-Groups img{
+  width: 25%;
+  vertical-align: middle;
+  position: relative;
+  left: 85px;
+}
+
+.pen-img {
+  width: 19px;
+}
+
+.umbc-news {
+  margin-top: 80px;
+}
+
+.footer-logo {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 25%;
+  position: relative;
+  left: 89px;
+  margin-top: 80px;
+}
+
+.social-icons img{
+  width: 50px;
+  position: relative;
+  left: 62px;
+}
+
+#umbc-footer-logo {
+  width: 100px;
+}
+
+#umbc-footer-nav-items {
+  display: inline-block;
+}
+
+#umbc-footer-nav-items {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+
+#umbc-footer-nav-items li {
+  float: left;
+}
+
+#umbc-footer-nav-items li {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 16px;
+  text-decoration: none;
+}
